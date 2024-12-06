@@ -34,64 +34,64 @@ Os estudos de caso incluem o uso das seguintes tecnologias:
 Data-Science-Cases/
 ├── Previsão de Churn/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
 │   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Previsão de Vendas/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
-│   └── reports/        # Relatórios e visualizações
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Segmentação de Clientes/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
-│   └── reports/        # Relatórios e visualizações
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Otimização de Campanhas de Marketing/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
 │   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Análise de Sentimentos em Avaliações de Produtos/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
 │   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Detecção de Outliers em Operações de Varejo/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
 │   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Clusterização de Lojas por Desempenho/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
 │   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Previsão de Tempo de Entrega em E-commerce/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
 │   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Análise de Rotas para Otimização Logística/  
 │   ├── data/           # Dados brutos anonimizados
-│   └── processed/      # Dados limpos e prontos para análise
-│   └── notebooks/      # Notebooks Jupyter com análises e modelos
+│   ├── processed/      # Dados limpos e prontos para análise
+│   ├── notebooks/      # Notebooks Jupyter com análises e modelos
 │   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
