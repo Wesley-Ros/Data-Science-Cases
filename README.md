@@ -30,7 +30,7 @@ Os estudos de caso incluem o uso das seguintes tecnologias:
 ---
 
 ## 📂 **Estrutura do Repositório**  
-
+```plaintext
 Data-Science-Cases/
 ├── Previsão de Churn/  
 │   ├── data/           # Dados brutos anonimizados
