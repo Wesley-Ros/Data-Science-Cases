@@ -96,9 +96,8 @@ Data-Science-Cases/
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── README.md           # Descrição principal do projeto
-└── requirements.txt    # Dependências do projeto (bibliotecas)
-
-
+└── requirements.txt    # Dependências do projeto (bibliotecas)plaintext
+```
 ---
 
 ## 📚 **Casos Incluídos**  
