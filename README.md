@@ -43,14 +43,14 @@ Data-Science-Cases/
 │   ├── data/           # Dados brutos anonimizados
 │   ├── processed/      # Dados limpos e prontos para análise
 │   ├── notebooks/      # Notebooks Jupyter com análises e modelos
-│   ├── reports/        # Relatórios e visualizações
+│   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Segmentação de Clientes/  
 │   ├── data/           # Dados brutos anonimizados
 │   ├── processed/      # Dados limpos e prontos para análise
 │   ├── notebooks/      # Notebooks Jupyter com análises e modelos
-│   ├── reports/        # Relatórios e visualizações
+│   └── reports/        # Relatórios e visualizações
 │       ├── figures/    # Gráficos e imagens gerados
 │       └── summary.md  # Resumo das análises
 ├── Otimização de Campanhas de Marketing/  
