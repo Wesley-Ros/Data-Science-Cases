@@ -6,7 +6,7 @@ Bem-vindo ao repositório **Data Science/Cases**, um espaço dedicado à demonst
 
 ## 🔍 **Sobre o Repositório**  
 
-Este repositório apresenta uma coleção de estudos de caso cuidadosamente elaborados por mims, com foco em:  
+Este repositório apresenta uma coleção de estudos de caso cuidadosamente elaborados com base em minha experiência profissional, com foco em:  
 - Análise Exploratória de Dados (**EDA**).  
 - Técnicas Estatísticas (regressões, testes de hipóteses).  
 - Treinamento e Avaliação de Modelos de Aprendizado de Máquina.  
